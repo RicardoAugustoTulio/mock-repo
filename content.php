@@ -69,5 +69,4 @@
         echo "mbqmu";
         echo "myayy";
         echo "nosgq";
-        echo "bqasb";
 ?>
