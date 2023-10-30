@@ -669,5 +669,4 @@
         echo "xscrs";
         echo "pebgc";
         echo "ewhre";
-        echo "etntp";
 ?>
