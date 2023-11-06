@@ -1527,5 +1527,4 @@
         echo "ohlnh";
         echo "ygpna";
         echo "mvipy";
-        echo "kupda";
 ?>
