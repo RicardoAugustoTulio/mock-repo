@@ -350,5 +350,5 @@
         echo "mupdd";
         echo "irbkd";
         echo "orsmk";
-        echo "eiida";
+        echo "magit";
 ?>
