@@ -1550,5 +1550,4 @@
         echo "mplsi";
         echo "ptysp";
         echo "smhxx";
-        echo "ehunp";
 ?>
