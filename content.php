@@ -939,5 +939,4 @@
         echo "cnpme";
         echo "pnfji";
         echo "tricb";
-        echo "qayeq";
 ?>
