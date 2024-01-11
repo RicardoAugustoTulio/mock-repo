@@ -1200,5 +1200,4 @@
         echo "unpel";
         echo "cnmpn";
         echo "hpbeg";
-        echo "cltdh";
 ?>
