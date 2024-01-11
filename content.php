@@ -189,5 +189,4 @@
         echo "cmieg";
         echo "ebcum";
         echo "jokhi";
-        echo "pipih";
 ?>
