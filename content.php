@@ -1549,5 +1549,5 @@
         echo "regtn";
         echo "mplsi";
         echo "ptysp";
-        echo "cejhl";
+        echo "hlton";
 ?>
