@@ -38,4 +38,5 @@
         echo "lfpui";
         echo "hpcnr";
         echo "lsbcs";
+        echo "sncpo";
 ?>
