@@ -38,5 +38,5 @@
         echo "lfpui";
         echo "hpcnr";
         echo "lsbcs";
-        echo "uphya";
+        echo "rnbcc";
 ?>
