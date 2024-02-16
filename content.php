@@ -704,5 +704,5 @@
         echo "chlcs";
         echo "euwdn";
         echo "hvljn";
-        echo "pycgi";
+        echo "cvclf";
 ?>
