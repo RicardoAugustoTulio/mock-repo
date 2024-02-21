@@ -826,5 +826,4 @@
         echo "pxhwi";
         echo "tegco";
         echo "kwwhs";
-        echo "svmnx";
 ?>
