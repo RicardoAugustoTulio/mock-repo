@@ -1788,5 +1788,4 @@
         echo "vgwds";
         echo "nbqfm";
         echo "ggyrg";
-        echo "taink";
 ?>
