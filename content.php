@@ -387,5 +387,4 @@
         echo "jycux";
         echo "mytdp";
         echo "bcwcd";
-        echo "gibqi";
 ?>
