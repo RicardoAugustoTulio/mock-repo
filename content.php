@@ -596,5 +596,4 @@
         echo "sxobw";
         echo "bdarr";
         echo "vwppy";
-        echo "kgirw";
 ?>
