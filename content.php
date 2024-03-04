@@ -1790,5 +1790,4 @@
         echo "wsadc";
         echo "bvnvw";
         echo "lwalt";
-        echo "ckdrm";
 ?>
