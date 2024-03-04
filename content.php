@@ -1566,5 +1566,4 @@
         echo "uvknj";
         echo "pmnpg";
         echo "etkul";
-        echo "qwssk";
 ?>
