@@ -598,5 +598,5 @@
         echo "fsbif";
         echo "mekov";
         echo "yisgl";
-        echo "sntsv";
+        echo "cgluc";
 ?>
