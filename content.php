@@ -486,5 +486,5 @@
         echo "xftwm";
         echo "lndvh";
         echo "tbvhp";
-        echo "udevj";
+        echo "xitkb";
 ?>
