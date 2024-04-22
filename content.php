@@ -603,5 +603,4 @@
         echo "bsauj";
         echo "eyorr";
         echo "udmki";
-        echo "jhrno";
 ?>
