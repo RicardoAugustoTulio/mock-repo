@@ -45,5 +45,4 @@
         echo "tfrbx";
         echo "qjlip";
         echo "yetwq";
-        echo "jebix";
 ?>
