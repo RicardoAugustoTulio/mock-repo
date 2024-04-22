@@ -46,5 +46,4 @@
         echo "qjlip";
         echo "yetwq";
         echo "tpcia";
-        echo "vtkar";
 ?>
