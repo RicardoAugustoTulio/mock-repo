@@ -1573,5 +1573,4 @@
         echo "mutok";
         echo "osjke";
         echo "damcd";
-        echo "cwtsg";
 ?>
