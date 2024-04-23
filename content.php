@@ -487,5 +487,4 @@
         echo "lndvh";
         echo "tbvhp";
         echo "ppedp";
-        echo "godkr";
 ?>
