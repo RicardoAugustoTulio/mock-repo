@@ -485,5 +485,4 @@
         echo "iynwt";
         echo "xftwm";
         echo "lndvh";
-        echo "tbvhp";
 ?>
