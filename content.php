@@ -486,5 +486,4 @@
         echo "xftwm";
         echo "lndvh";
         echo "tbvhp";
-        echo "ppedp";
 ?>
