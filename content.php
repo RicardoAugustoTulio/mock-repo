@@ -1361,6 +1361,5 @@
         echo "mwtge";
         echo "dbbpr";
         echo "dqbhl";
-        echo "wnlgb";
-        echo "huesw";
+        echo "uqiok";
 ?>
