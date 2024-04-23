@@ -1572,6 +1572,5 @@
         echo "hmfov";
         echo "mutok";
         echo "osjke";
-        echo "kqbsb";
-        echo "nirkv";
+        echo "qstwm";
 ?>
