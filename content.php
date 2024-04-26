@@ -487,4 +487,5 @@
         echo "gbmsm";
         echo "akcmd";
         echo "plhqm";
+        echo "sxyfw";
 ?>
