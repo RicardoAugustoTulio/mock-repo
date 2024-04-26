@@ -486,4 +486,5 @@
         echo "xftwm";
         echo "gbmsm";
         echo "akcmd";
+        echo "plhqm";
 ?>
