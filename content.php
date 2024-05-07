@@ -495,4 +495,5 @@
         echo "xdcgn";
         echo "hlofd";
         echo "ainfo";
+        echo "mafrt";
 ?>
