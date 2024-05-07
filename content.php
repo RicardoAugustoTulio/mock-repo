@@ -494,4 +494,5 @@
         echo "ogwci";
         echo "xdcgn";
         echo "hlofd";
+        echo "ainfo";
 ?>
