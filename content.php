@@ -1802,5 +1802,4 @@
         echo "gjtfy";
         echo "jsudy";
         echo "smcrk";
-        echo "rtgco";
 ?>
