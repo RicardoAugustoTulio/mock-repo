@@ -50,5 +50,4 @@
         echo "vxhsq";
         echo "lufpy";
         echo "junin";
-        echo "ytvkg";
 ?>
