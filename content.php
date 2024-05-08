@@ -840,5 +840,4 @@
         echo "ftkja";
         echo "nrxod";
         echo "orjrl";
-        echo "rkobn";
 ?>
