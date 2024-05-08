@@ -307,5 +307,4 @@
         echo "gyuwp";
         echo "jgpvm";
         echo "hnxmh";
-        echo "etuno";
 ?>
