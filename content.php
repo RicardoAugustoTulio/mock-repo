@@ -1228,5 +1228,4 @@
         echo "sapqd";
         echo "ohesu";
         echo "qjxdg";
-        echo "wympp";
 ?>
