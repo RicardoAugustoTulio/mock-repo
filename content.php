@@ -400,5 +400,4 @@
         echo "grotb";
         echo "ocbln";
         echo "jlhoi";
-        echo "ncalb";
 ?>
