@@ -1096,5 +1096,4 @@
         echo "khggy";
         echo "pfeqp";
         echo "qadil";
-        echo "vfttp";
 ?>
