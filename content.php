@@ -48,5 +48,4 @@
         echo "wsjna";
         echo "cxmbh";
         echo "vxhsq";
-        echo "ukxvo";
 ?>
