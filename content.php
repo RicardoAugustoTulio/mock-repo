@@ -1799,6 +1799,5 @@
         echo "ktbvg";
         echo "qgkpg";
         echo "clbqk";
-        echo "gjtfy";
-        echo "ejjce";
+        echo "efctt";
 ?>
