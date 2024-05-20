@@ -214,6 +214,5 @@
         echo "kvbcw";
         echo "gkmnc";
         echo "drjyl";
-        echo "gkveo";
-        echo "ntbet";
+        echo "hktqs";
 ?>
