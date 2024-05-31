@@ -405,5 +405,4 @@
         echo "nyhsr";
         echo "xjhxb";
         echo "muxou";
-        echo "uaeqx";
 ?>
