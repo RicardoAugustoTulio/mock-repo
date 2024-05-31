@@ -971,5 +971,4 @@
         echo "okkmm";
         echo "dahgv";
         echo "dyhcg";
-        echo "rniil";
 ?>
