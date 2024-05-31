@@ -612,5 +612,4 @@
         echo "ktmet";
         echo "tpyba";
         echo "iwquu";
-        echo "tqfuk";
 ?>
