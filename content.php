@@ -54,5 +54,4 @@
         echo "uayvp";
         echo "ejsxl";
         echo "onqwe";
-        echo "cnera";
 ?>
