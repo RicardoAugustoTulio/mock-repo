@@ -313,5 +313,4 @@
         echo "nbgyp";
         echo "laifw";
         echo "qreys";
-        echo "chrgq";
 ?>
