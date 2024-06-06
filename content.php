@@ -407,5 +407,4 @@
         echo "mctju";
         echo "ubpwc";
         echo "yiatm";
-        echo "egymg";
 ?>
