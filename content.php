@@ -1103,5 +1103,4 @@
         echo "gmsve";
         echo "adtpd";
         echo "nbysb";
-        echo "yijrt";
 ?>
