@@ -855,5 +855,5 @@
         echo "ufpsc";
         echo "bpuse";
         echo "xaagu";
-        echo "sgpyp";
+        echo "setnu";
 ?>
