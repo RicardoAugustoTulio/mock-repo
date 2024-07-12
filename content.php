@@ -1006,5 +1006,4 @@
         echo "smroa";
         echo "nhvky";
         echo "mcwpf";
-        echo "ofniy";
 ?>
