@@ -646,5 +646,4 @@
         echo "gonhe";
         echo "rmeke";
         echo "vjcan";
-        echo "mnnru";
 ?>
