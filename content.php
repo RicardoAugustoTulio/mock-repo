@@ -1014,5 +1014,5 @@
         echo "ncrdp";
         echo "sbffa";
         echo "urscf";
-        echo "lirqn";
+        echo "gwfnr";
 ?>
