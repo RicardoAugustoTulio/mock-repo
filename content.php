@@ -1628,4 +1628,5 @@
         echo "ptoal";
         echo "tpmgr";
         echo "dxbxk";
+        echo "fgcov";
 ?>
