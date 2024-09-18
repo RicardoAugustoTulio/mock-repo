@@ -1017,5 +1017,5 @@
         echo "nrwws";
         echo "kbdwr";
         echo "tombd";
-        echo "onoff";
+        echo "bdcgx";
 ?>
