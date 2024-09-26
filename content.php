@@ -1285,5 +1285,4 @@
         echo "qajgr";
         echo "jivur";
         echo "ivupf";
-        echo "ngnwg";
 ?>
