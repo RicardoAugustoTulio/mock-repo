@@ -1636,5 +1636,4 @@
         echo "gsmbu";
         echo "hunan";
         echo "oinve";
-        echo "ejtcn";
 ?>
