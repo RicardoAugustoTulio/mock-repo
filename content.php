@@ -1031,5 +1031,4 @@
         echo "jocis";
         echo "ojhdv";
         echo "rytul";
-        echo "ecmul";
 ?>
