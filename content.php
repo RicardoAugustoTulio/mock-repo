@@ -1867,5 +1867,4 @@
         echo "pausc";
         echo "jxnco";
         echo "igvih";
-        echo "dpqtl";
 ?>
