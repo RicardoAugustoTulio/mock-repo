@@ -903,5 +903,4 @@
         echo "kxihh";
         echo "qlfju";
         echo "jephl";
-        echo "rgbqk";
 ?>
