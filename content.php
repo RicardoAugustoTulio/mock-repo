@@ -1292,5 +1292,4 @@
         echo "gqsma";
         echo "holnl";
         echo "dpdtj";
-        echo "cqonp";
 ?>
