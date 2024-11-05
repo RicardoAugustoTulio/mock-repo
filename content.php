@@ -1162,5 +1162,4 @@
         echo "uwojb";
         echo "bhppx";
         echo "mnftg";
-        echo "wpmcu";
 ?>
