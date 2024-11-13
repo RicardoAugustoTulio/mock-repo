@@ -1,1 +1,1 @@
-print("msaal")
+print("vajin")
