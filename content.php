@@ -1873,5 +1873,4 @@
         echo "xopet";
         echo "oyclt";
         echo "uwqpv";
-        echo "nyalr";
 ?>
