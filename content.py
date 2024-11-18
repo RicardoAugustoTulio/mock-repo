@@ -1,1 +1,1 @@
-print("nnnww")
+print("wumww")
