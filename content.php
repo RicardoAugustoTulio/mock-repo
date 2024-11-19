@@ -1037,5 +1037,4 @@
         echo "mwdhy";
         echo "ylwtt";
         echo "lnutw";
-        echo "dejar";
 ?>
