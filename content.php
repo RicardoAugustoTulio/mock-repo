@@ -1872,5 +1872,4 @@
         echo "wgvmh";
         echo "xopet";
         echo "oyclt";
-        echo "rshak";
 ?>
