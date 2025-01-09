@@ -1172,5 +1172,4 @@
         echo "mliqm";
         echo "mnyde";
         echo "kbtwc";
-        echo "ocbge";
 ?>
