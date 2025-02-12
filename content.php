@@ -1311,5 +1311,4 @@
         echo "qmwge";
         echo "xjhon";
         echo "pgtnk";
-        echo "alata";
 ?>
