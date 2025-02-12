@@ -1886,5 +1886,4 @@
         echo "vlqqg";
         echo "yoiyo";
         echo "koils";
-        echo "ktdur";
 ?>
