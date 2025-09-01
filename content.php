@@ -1950,5 +1950,4 @@
         echo "wdvok";
         echo "iqurg";
         echo "gwnbm";
-        echo "yaneo";
 ?>
