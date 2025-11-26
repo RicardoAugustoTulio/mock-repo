@@ -1980,7 +1980,5 @@
         echo "wcgup";
         echo "ouwxv";
         echo "irwac";
-        echo "hbppy";
-        echo "cknyg";
-        echo "anrrx";
+        echo "faavx";
 ?>
